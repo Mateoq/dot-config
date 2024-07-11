@@ -1,0 +1,6 @@
+2024/06/24-11:57:00.053 3287 Creating DB /home/mateoq/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2024/06/24-11:57:00.254 3287 Reusing MANIFEST /home/mateoq/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/24-11:57:32.085 3287 Level-0 table #5: started
+2024/06/24-11:57:32.110 3287 Level-0 table #5: 1371 bytes OK
+2024/06/24-11:57:32.142 3287 Delete type=0 #3
+2024/06/24-11:57:32.142 3287 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

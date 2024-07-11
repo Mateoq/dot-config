@@ -1,0 +1,6 @@
+2024/06/28-15:53:22.775 113d4 Creating DB /home/mateoq/.config/chromium/Default/IndexedDB/https_www.vehiculosantioquia.com.co_0.indexeddb.leveldb since it was missing.
+2024/06/28-15:53:22.860 113d4 Reusing MANIFEST /home/mateoq/.config/chromium/Default/IndexedDB/https_www.vehiculosantioquia.com.co_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/28-15:55:25.843 113d5 Level-0 table #5: started
+2024/06/28-15:55:25.876 113d5 Level-0 table #5: 1986 bytes OK
+2024/06/28-15:55:25.903 113d5 Delete type=0 #3
+2024/06/28-15:55:25.904 113d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

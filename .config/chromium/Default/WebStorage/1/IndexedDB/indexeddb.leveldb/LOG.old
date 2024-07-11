@@ -1,0 +1,15 @@
+2024/06/26-15:09:52.917 7c35 Reusing MANIFEST /home/mateoq/.config/chromium/Default/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/26-15:09:52.917 7c35 Recovering log #4
+2024/06/26-15:09:52.917 7c35 Reusing old log /home/mateoq/.config/chromium/Default/WebStorage/1/IndexedDB/indexeddb.leveldb/000004.log 
+2024/06/26-15:19:56.662 7c2a Level-0 table #8: started
+2024/06/26-15:19:56.695 7c2a Level-0 table #8: 4012 bytes OK
+2024/06/26-15:19:56.724 7c2a Delete type=0 #4
+2024/06/26-15:19:56.725 7c2a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/26-15:19:56.725 7c2a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x01\x03\x00\x00\x00\x00\x00\x00(@' @ 645 : 1
+2024/06/26-15:19:56.726 7c2a Compacting 1@1 + 1@2 files
+2024/06/26-15:19:56.763 7c2a Generated table #9@1: 76 keys, 1594 bytes
+2024/06/26-15:19:56.763 7c2a Compacted 1@1 + 1@2 files => 1594 bytes
+2024/06/26-15:19:56.790 7c2a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/26-15:19:56.791 7c2a Delete type=2 #5
+2024/06/26-15:19:56.791 7c2a Delete type=2 #8
+2024/06/26-15:19:56.792 7c2a Manual compaction at level-1 from '\x00\x03\x01\x01\x03\x00\x00\x00\x00\x00\x00(@' @ 645 : 1 .. (end); will stop at (end)
